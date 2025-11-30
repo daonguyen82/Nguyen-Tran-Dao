@@ -1,0 +1,5 @@
+{
+  "name": "DreamSpace AI Designer",
+  "description": "An interactive 3D interior design generator powered by Gemini. Visualize room layouts and styles with AI-generated color palettes and concept art.",
+  "requestFramePermissions": []
+}
